@@ -430,7 +430,7 @@ void LogoutUser()
 
 void ExitProgram()
 {
-    printf("Exiting...\nThis project was made by Ankan Das from UEM, Kolkata as a second semester project\nPress \"Enter/Return\" to exit");
+    
     char exitprog;
     fflush(stdin);
     scanf("%c",&exitprog);
